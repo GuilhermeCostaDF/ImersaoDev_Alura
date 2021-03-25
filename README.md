@@ -17,4 +17,5 @@ Link para a imersãoDev: https://bit.ly/3sg8sND
 + [Conversor de Moeda](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/ConversorMoeda)
 + [Calculadora](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Calculadora)
 + [Mentalista](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Mentalista)
++ [AluraFlix](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix)
 
