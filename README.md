@@ -18,4 +18,5 @@ Link para a imersãoDev: https://bit.ly/3sg8sND
 + [Calculadora](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Calculadora)
 + [Mentalista](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Mentalista)
 + [AluraFlix](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix)
++ [AluraFlix2](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix2)
 
