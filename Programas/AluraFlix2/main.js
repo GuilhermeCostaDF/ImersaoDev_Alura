@@ -7,7 +7,7 @@ function adicionarFilme(){
   } else{
       alert("Imagem Inválida")
   }
-    campoFilmeFavorito.value = ""
+    campoFilmeFavorito.value = " "
   }
   
   function listarFilmesNaTela(filme){
@@ -20,5 +20,3 @@ function adicionarFilme(){
     }
     listaFilmes.innerHTML = listaFilmes.innerHTML + elementoFilme
   }
-
-
