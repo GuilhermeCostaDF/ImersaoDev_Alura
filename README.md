@@ -19,4 +19,4 @@ Link para a imersãoDev: https://bit.ly/3sg8sND
 + [Mentalista](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Mentalista)
 + [AluraFlix](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix)
 + [AluraFlix2](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix2)
-
++ [Tabela de classificação e objetos no JavaScript](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/Classificacao)
