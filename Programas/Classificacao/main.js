@@ -16,13 +16,15 @@ var paulo = {
   
   rafa.pontos= calculaPontos(rafa)
   paulo.pontos= calculaPontos(paulo)
+
+
   
   function calculaPontos(jogador){
    var pontos = (jogador.vitorias * 3) + jogador.empates
    return pontos
   }
   
-  
+
   var jogadores = [rafa, paulo]
   
   exibirJogadoresNaTela(jogadores)
@@ -64,37 +66,22 @@ var paulo = {
     jogador.derrotas++
     exibirJogadoresNaTela(jogadores)
   }
+
+  function addPersona(){
+    var newJogador = document.getElementById('nome')
+    var newvalue = newJogador.value
+    var newPlayer = {
+      nome: newvalue,
+      vitorias: 0,
+      empates: 0,
+      derrotas: 0,
+      pontos: 0,
+    }
+
+    jogadores.push(newPlayer)
+    exibirJogadoresNaTela(jogadores)
+    newJogador.value= ""
+  }
+
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   
