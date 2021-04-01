@@ -110,4 +110,23 @@ function exibeCartaJogador() {
 }
 ```
 
-## 
+# TRUNFO E LÓGICA DE RODADAS COM JAVASCRIPT
+
+
+
+## PARTICIPE E VÁ MAIS FUNDO
+
+Nesta nona aula da **Imersão Dev**, vamos alterar a lógica do jogo para mais rodadas e com mais cartas! O código da aula para você acompanhar está aqui:
+
+https://codepen.io/imersao-dev/pen/eYgYYxG
+
+Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções `alert` e `prompt` para trocar nossas primeiras mensagens na tela com o usuário.
+
+## Conteúdo detalhado dessa aula
+
+- Adicionamos mais cartas no jogo;
+- Criamos um placar com pontos do jogador e da máquina;
+- Desenvolvemos uma função que atualiza o placar do jogo;
+- Incluímos uma lógica para remover as cartas usadas do jogo a cada rodada;
+- Alteramos a forma de sortear as cartas do jogo;
+- Manipulamos os botões do jogo alterando a visibilidade.
