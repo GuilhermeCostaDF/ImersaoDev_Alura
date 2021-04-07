@@ -33,6 +33,10 @@ svg{
     fill: rgb(39, 39, 39);
 }
 
+svg:hover{
+    fill: rgb(233, 82, 62);
+}
+
 .certifiCard {
     background-color: rgb(224, 224, 224);
     padding: 2px 5px;
