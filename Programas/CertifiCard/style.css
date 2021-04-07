@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(233, 82, 62);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mainSection{
+    display: block;
+    max-width: 450px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 100px auto 0px auto;
+    box-shadow: 3px 1px 42px 10px rgba(0,0,0,0.54);
+    -webkit-box-shadow: 3px 1px 42px 10px rgba(0,0,0,0.54);
+    -moz-box-shadow: 3px 1px 42px 10px rgba(0,0,0,0.54);
+}
+
+#mainSection h1{
+    font-size: 18px;
+}
+
+.aboutME{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+}
+
+svg{
+    fill: rgb(39, 39, 39);
+}
+
+.certifiCard {
+    background-color: rgb(224, 224, 224);
+    padding: 2px 5px;
+    border: 1px solid gray;
+}
+
+.certifiCard h2{
+    font-size: 25px;
+}
+
+li {
+    list-style-type: none;
+    margin: 5px;
+}
+
+header{
+    background-image: url('https://images.unsplash.com/photo-1509592931695-18ef24228b9d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cG9rZW1vbiUyMHN0YWRpdW18ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
+    background-position: 58% 55%;
+    height: 79px;
+}
+
+img{
+    display: block;
+    border-radius: 100%;
+    width: 125px;
+    height: 125px;
+    margin-right: auto;
+    margin-left: auto; 
+    transform: translateY(-50%);
+    border: 5px solid white;
+}
