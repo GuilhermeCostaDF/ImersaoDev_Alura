@@ -47,11 +47,6 @@ Neste programa, focamos no desenvolvimento da lógica do jogo do zero, desde a c
 # TRUNFO, IMAGENS, MANIPULAÇÃO DO HTML E CSS
 
 
-
-
-
-## 
-
 Nesta oitava aula da **Imersão Dev**, vamos evoluir ainda mais nosso Trunfo, focando em exibir as cartas na tela! O código da aula para você acompanhar está aqui:
 
 https://codepen.io/imersao-dev/pen/JjEjjZv
@@ -113,8 +108,6 @@ function exibeCartaJogador() {
 # TRUNFO E LÓGICA DE RODADAS COM JAVASCRIPT
 
 
-
-## PARTICIPE E VÁ MAIS FUNDO
 
 Nesta nona aula da **Imersão Dev**, vamos alterar a lógica do jogo para mais rodadas e com mais cartas! O código da aula para você acompanhar está aqui:
 
