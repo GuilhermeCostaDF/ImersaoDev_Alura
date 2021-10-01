@@ -14,9 +14,9 @@ Link para a imersãoDev: https://bit.ly/3sg8sND
 
 
 
-+ [Conversor de Moeda](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/ConversorMoeda)
-+ [Calculadora](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Calculadora)
-+ [Mentalista](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Mentalista)
++ [Conversor de Moeda](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/ConversorMoeda)
++ [Calculadora](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/Calculadora)
++ [Mentalista](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/Mentalista)
 + [AluraFlix](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix)
 + [AluraFlix2](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/AluraFlix2)
 + [Tabela de classificação e objetos no JavaScript](https://github.com/GuilhermeCostaDF/ImersaoDev_Alura/tree/master/Programas/Classificacao)
